@@ -1,2 +1,0 @@
-# COMPSCIX433
-Homeworks
